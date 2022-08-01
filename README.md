@@ -1,2 +1,2 @@
-# Projeto_de_automac-o
+# Projeto_de_automacao
 Teste de automacão empresa Ticto
